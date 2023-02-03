@@ -1,0 +1,12 @@
+.table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  
+  @media (max-width: 768px) {
+    .table {
+      width: 100%;
+    }
+  }
